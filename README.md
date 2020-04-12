@@ -1,4 +1,4 @@
-# Backup db to s3
+# backup-s3-sh
 
 ## Requirements
 
